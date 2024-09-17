@@ -1,0 +1,5 @@
+10/09 nao terminei o auxiliar
+r: feito
+
+12/09 ta dando erro no $mysqli na parte do tarefas.php (acho que vou ter que mexer no banco)
+obs: ele ainda não passou o banco, mas a parte do tarefas foi concluida.
